@@ -1,0 +1,16 @@
+html, body{
+    background-color: url(th-3722941568.jpg);
+    
+
+}
+.pweb{
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+
+.text{
+    text-align: center;
+    display: block;
+    padding: 50px;
+}
